@@ -4,6 +4,7 @@
 1. [Deskripsi](#Deskripsi)
 2. [Tujuan](#Tujuan)
 3. [Library](#library-yang-diperlukan)
+4. [Cloning Project](#Cara-Cloning-Repositori) 
 
 ## Deskripsi 
 Project ini bertujuan untuk menganalisis dan memprediksi pembatalan reservasi hotel menggunakan dataset *Hotel Bookings Data*. Dengan menggunakan algoritma *Random Forest Classifier*, model ini dapat memprediksi kemungkinan pembatalan berdasarkan berbagai fitur pemesanan, yang membantu manajemen hotel dalam pengambilan keputusan yang lebih baik.
@@ -28,7 +29,7 @@ Project ini bertujuan untuk menganalisis dan memprediksi pembatalan reservasi ho
    ```bash
    git clone https://github.com/haaahabib/Big-Data-Analysis.git
 
-### 1. **Cloning di Google Colab**
+### 2. **Cloning di Google Colab**
 1. Buka **Google Colab** di browser Anda dengan mengunjungi [Google Colab](https://colab.research.google.com/).
 2. Buat **Notebook baru** dengan memilih **File > New Notebook**.
 3. Jalankan perintah berikut di dalam sebuah cell untuk meng-clone repositori ke dalam Google Colab:
