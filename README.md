@@ -4,10 +4,11 @@
 
 1. [Deskripsi](#Deskripsi)
 2. [Tujuan](#Tujuan)
-3. [Library](#library-yang-diperlukan)
-4. [Proses Analisis](#Proses-analisis-dan-prediksi-sebagai-berikut)
-5. [Cloning Project](#Cara-Cloning-Repositori)
-6. [Profil](#Profil-Pembuat)
+3. [Dataset](#Dataset)
+4. [Library](#library-yang-diperlukan)
+5. [Proses Analisis](#Proses-analisis-dan-prediksi-sebagai-berikut)
+6. [Cloning Project](#Cara-Cloning-Repositori)
+7. [Profil](#Profil-Pembuat)
 
 ## Deskripsi 
 
@@ -18,6 +19,12 @@ Project ini bertujuan untuk menganalisis dan memprediksi pembatalan reservasi ho
 - Melakukan analisis statistik untuk menemukan pola pembatalan reservasi dalam data hotel.
 - Membangun model prediksi pembatalan reservasi menggunakan algoritma *Random Forest Classifier*.
 - Memberikan rekomendasi untuk meningkatkan strategi pengelolaan reservasi hotel berdasarkan analisis data.
+
+## Dataset
+Data ini berasal dari kumpulan data permintaan pemesanan hotel terbuka dari [Antonio, Almeida dan Nunes, 2019](https://www.sciencedirect.com/science/article/pii/S2352340918315191#f0010)
+Data Dictionary:
+![Variabel Hotel Bookings Data](https://github.com/user-attachments/assets/07dddc03-d9d8-49d1-ade5-18bf1db4dde9)
+
 
 ## Library yang diperlukan
 
