@@ -9,7 +9,7 @@
 5. [Library](#library-yang-diperlukan)
 6. [Proses Analisis](#Proses-analisis-dan-prediksi-sebagai-berikut)
 7. [Cloning Project](#Cara-Cloning-Repositori)
-8. [Profil](#Profil-Pembuat)
+8. [Profil Pembuat](#Profil-Pembuat)
 
 ## Deskripsi 
 
