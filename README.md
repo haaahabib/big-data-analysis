@@ -61,10 +61,11 @@ Project ini bertujuan untuk menganalisis dan memprediksi pembatalan reservasi ho
    !git clone https://github.com/haaahabib/Big-Data-Analysis.git
    
 Setelah repositori di-clone, jalankan perintah berikut di dalam cell untuk menginstal library yang diperlukan
-!pip install pandas==2.0.3
-!pip install numpy==1.25.2
-!pip install matplotlib==3.7.2
-!pip install seaborn==0.12.2
+   ```bash
+   !pip install pandas==2.0.3
+   !pip install numpy==1.25.2
+   !pip install matplotlib==3.7.2
+   !pip install seaborn==0.12.2
 
 ## Profil Pembuat
 - **Nama**: [Muhammad Habibulloh](https://github.com/haaahabib)
