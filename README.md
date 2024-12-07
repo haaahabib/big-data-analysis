@@ -5,7 +5,7 @@
 1. [Deskripsi](#Deskripsi)
 2. [Tujuan](#Tujuan)
 3. [Library](#library-yang-diperlukan)
-4. [Proses Analisis][#Proses-analisis-dan-prediksi-sebagai-berikut:]
+4. [Proses Analisis][#Proses-analisis-dan-prediksi-sebagai-berikut]
 5. [Cloning Project](#Cara-Cloning-Repositori) 
 
 ## Deskripsi 
