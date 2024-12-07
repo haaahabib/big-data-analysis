@@ -58,3 +58,10 @@ Project ini bertujuan untuk menganalisis dan memprediksi pembatalan reservasi ho
 3. Jalankan perintah berikut di dalam sebuah cell untuk meng-clone repositori ke dalam Google Colab:
    ```python
    !git clone https://github.com/haaahabib/Big-Data-Analysis.git
+
+## Profil Pembuat
+- **Nama**: Muhammad Habibulloh
+- **NIM**: 202110370311259
+- **Kelas**: Analisis Big Data (C)
+- **LinkedIn**: [Mari Terhubung](https://www.linkedin.com/in/mhabibulloh/)
+
