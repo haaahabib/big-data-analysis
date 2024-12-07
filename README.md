@@ -21,8 +21,7 @@ Project ini bertujuan untuk menganalisis dan memprediksi pembatalan reservasi ho
 - Memberikan rekomendasi untuk meningkatkan strategi pengelolaan reservasi hotel berdasarkan analisis data.
 
 ## Dataset
-Data ini berasal dari kumpulan data permintaan pemesanan hotel terbuka dari [Antonio, Almeida dan Nunes, 2019](https://www.sciencedirect.com/science/article/pii/S2352340918315191#f0010)
-
+Data ini berasal dari kumpulan data permintaan pemesanan hotel terbuka dari [Antonio, Almeida dan Nunes, 2019](https://www.sciencedirect.com/science/article/pii/S2352340918315191#f0010) 
 Data Dictionary:
 ![Variabel Hotel Bookings Data](https://github.com/user-attachments/assets/07dddc03-d9d8-49d1-ade5-18bf1db4dde9)
 
