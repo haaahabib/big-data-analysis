@@ -6,7 +6,8 @@
 2. [Tujuan](#Tujuan)
 3. [Library](#library-yang-diperlukan)
 4. [Proses Analisis](#Proses-analisis-dan-prediksi-sebagai-berikut)
-5. [Cloning Project](#Cara-Cloning-Repositori) 
+5. [Cloning Project](#Cara-Cloning-Repositori)
+6. [Profil](#Profil-Pembuat)
 
 ## Deskripsi 
 
@@ -63,5 +64,5 @@ Project ini bertujuan untuk menganalisis dan memprediksi pembatalan reservasi ho
 - **Nama**: Muhammad Habibulloh
 - **NIM**: 202110370311259
 - **Kelas**: Analisis Big Data (C)
-- **LinkedIn**: [Mari Terhubung](https://www.linkedin.com/in/mhabibulloh/)
+- [**LinkedIn**](https://www.linkedin.com/in/mhabibulloh/)
 
