@@ -61,7 +61,7 @@ Project ini bertujuan untuk menganalisis dan memprediksi pembatalan reservasi ho
    !git clone https://github.com/haaahabib/Big-Data-Analysis.git
 
 ## Profil Pembuat
-- **Nama**: Muhammad Habibulloh
+- **Nama**: [Muhammad Habibulloh](https://github.com/haaahabib)
 - **NIM**: 202110370311259
 - **Kelas**: Analisis Big Data (C)
 - [**LinkedIn**](https://www.linkedin.com/in/mhabibulloh/)
