@@ -59,8 +59,7 @@ Project ini bertujuan untuk menganalisis dan memprediksi pembatalan reservasi ho
 3. Jalankan perintah berikut di dalam sebuah cell untuk meng-clone repositori ke dalam Google Colab:
    ```python
    !git clone https://github.com/haaahabib/Big-Data-Analysis.git
-   
-Setelah repositori di-clone, jalankan perintah berikut di dalam cell untuk menginstal library yang diperlukan
+4. Setelah repositori di-clone, jalankan perintah berikut di dalam cell untuk menginstal library yang diperlukan
    ```bash
    !pip install pandas==2.0.3
    !pip install numpy==1.25.2
