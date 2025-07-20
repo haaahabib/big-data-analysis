@@ -5,11 +5,10 @@
 1. [Deskripsi](#deskripsi)
 2. [Tujuan](#tujuan)
 3. [Dataset](#dataset)
-4. [Kamus Data (Data Dictionary)](#kamus-data-data-dictionary)
+4. [Data Dictionary](#data-dictionary)
 5. [Library yang Diperlukan](#library-yang-diperlukan)
 6. [Proses Analisis](#proses-analisis)
 7. [Cara Menjalankan Proyek](#cara-menjalankan-proyek)
-8. [Profil Pembuat](#profil-pembuat)
 
 ## Deskripsi
 
@@ -25,7 +24,7 @@ Proyek ini bertujuan untuk menganalisis dan memprediksi pembatalan reservasi hot
 
 Data ini berasal dari kumpulan data permintaan pemesanan hotel terbuka dari [Antonio, Almeida dan Nunes, 2019](https://www.sciencedirect.com/science/article/pii/S2352340918315191#f0010).
 
-## Kamus Data (Data Dictionary)
+## Data Dictionary
 
 | Variabel | Tipe Data | Deskripsi |
 | :--- | :--- | :--- |
@@ -101,8 +100,3 @@ Data ini berasal dari kumpulan data permintaan pemesanan hotel terbuka dari [Ant
     cd Big-Data-Analysis
     ```
 4.  Setelah itu, Anda dapat membuka file `notebook.ipynb` dan menjalankannya. Pastikan semua library sudah terinstal dengan menjalankan cell pertama di notebook.
-
-## Profil Pembuat
-
-- **Nama**: Habib
-- **GitHub**: [haaahabib](https://github.com/haaahabib)
