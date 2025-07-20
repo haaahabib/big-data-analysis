@@ -85,7 +85,7 @@ Data ini berasal dari kumpulan data permintaan pemesanan hotel terbuka dari [Ant
 1.  Buka **VS Code** dan buka **Terminal**.
 2.  Jalankan perintah berikut untuk meng-clone repositori:
     ```bash
-    git clone [https://github.com/haaahabib/Big-Data-Analysis.git](https://github.com/haaahabib/Big-Data-Analysis.git)
+    git clone https://github.com/haaahabib/big-data-analysis.git
     ```
 
 ### 2. Cloning di Google Colab
@@ -93,7 +93,7 @@ Data ini berasal dari kumpulan data permintaan pemesanan hotel terbuka dari [Ant
 1.  Buka [Google Colab](https://colab.research.google.com/) dan buat **Notebook baru**.
 2.  Jalankan perintah berikut di dalam cell untuk meng-clone repositori:
     ```bash
-    !git clone [https://github.com/haaahabib/Big-Data-Analysis.git](https://github.com/haaahabib/Big-Data-Analysis.git)
+    !git clone https://github.com/haaahabib/big-data-analysis.git
     ```
 3.  Pindah ke direktori proyek:
     ```bash
